@@ -9,7 +9,7 @@ There are many ways to code & execute python in PC.
 4. Open a CLI.
     - Shell for Mac and Linux based OS
     - Poweshell or Commandprompt for Windows OS
-5. Type ```filename.py``` and hit enter to execute the saved code.
+5. Type ```python3 filename.py``` and hit enter to execute the saved code.
 
 ## IDE's for Python
 Generally IDE boost the confidence and makes a good environment for coding
