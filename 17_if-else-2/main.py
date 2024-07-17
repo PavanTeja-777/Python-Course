@@ -1,5 +1,5 @@
-#Nested-If
-#Propgram to comapre 2 numbers if they are whole numbers
+# Nested-If
+# Propgram to comapre 2 numbers if they are whole numbers
 
 n1 = int(input("Enter First number: "))
 n2 = int(input("Enter Second number: "))
@@ -14,8 +14,8 @@ else:
     else:
         print(f'{n1} is equal to {n2}')
 
-#Ternary Operator
-#Program to find max number
+# Ternary Operator
+# Program to find max number
 
 m1 = int(input("Enter First number: "))
 m2 = int(input("Enter Second number: "))
